@@ -1,0 +1,1 @@
+The program was written in Python 3.5.4, and uses libraries: PyQt5 and Sqlite3.
